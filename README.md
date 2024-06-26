@@ -20,15 +20,18 @@ This repository contains the Arduino code and mechanical designs for an automate
 ## Setup Instructions
 
 ### Hardware Assembly
-1. **Mechanical Assembly:** Construct the tube holder and rotation mechanism using the provided 3D designs. Ensure all mechanical connections are secure. [Download the STL files here](URL_TO_STL_FILES).
+1. **Mechanical Assembly:** Construct the tube holder and rotation mechanism using the provided 3D designs. Ensure all mechanical connections are secure.
+   [Servo-mount-eppendorf3_base.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_base.stl)
+   [Servo-mount-eppendorf3_mid.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_mid.stl)
+   [Servo-mount-eppendorf3_lid.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_lid.stl)
 
-2. **Install the Servo Motor:** Fit the servo motor onto its mount on the assembly.
-3. **Set Up the Limit Switch:** Install the limit switch in a location where it will be automatically triggered at the end of each sampling sequence.
-4. **Install the Potentiometer:** Place the potentiometer within easy reach for manual adjustments.
-5. **Wiring:** Connect the servo, limit switch, and potentiometer to the Arduino as per the wiring diagrams in the repository.
+3. **Install the Servo Motor:** Fit the servo motor onto its mount on the assembly.
+4. **Set Up the Limit Switch:** Install the limit switch in a location where it will be automatically triggered at the end of each sampling sequence.
+5. **Install the Potentiometer:** Place the potentiometer within easy reach for manual adjustments.
+6. **Wiring:** Connect the servo, limit switch, and potentiometer to the Arduino as per the wiring diagrams in the repository.
 
 ### Software Configuration
-- **Upload the Arduino Script:** Flash the Arduino with the script provided in this repository using the Arduino IDE. [View the Arduino code here](URL_TO_ARDUINO_CODE).
+- **Upload the Arduino Script:** Flash the Arduino with the script provided in this repository using the Arduino IDE. [View the Arduino code here]([URL_TO_ARDUINO_CODE](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/sketch_cytoflex3D.ino)).
 - **Calibrate the Device:** Adjust the potentiometer to fine-tune the rotation steps and ensure that the tubes align perfectly under the sampling mechanism after each rotation.
 
 ## Usage
