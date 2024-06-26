@@ -21,8 +21,11 @@ This repository contains the Arduino code and mechanical designs for an automate
 
 ### Hardware Assembly
 1. **Mechanical Assembly:** Construct the tube holder and rotation mechanism using the provided 3D designs. Ensure all mechanical connections are secure.
+   
    [Servo-mount-eppendorf3_base.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_base.stl)
+   
    [Servo-mount-eppendorf3_mid.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_mid.stl)
+   
    [Servo-mount-eppendorf3_lid.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_lid.stl)
 
 3. **Install the Servo Motor:** Fit the servo motor onto its mount on the assembly.
