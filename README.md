@@ -20,14 +20,15 @@ This repository contains the Arduino code and mechanical designs for an automate
 ## Setup Instructions
 
 ### Hardware Assembly
-1. **Mechanical Assembly:** Construct the tube holder and rotation mechanism using the provided 3D designs. Ensure all mechanical connections are secure.
+1. **Mechanical Assembly:** Construct the tube holder and rotation mechanism using the provided 3D designs. Ensure all mechanical connections are secure. [Download the STL files here](URL_TO_STL_FILES).
+
 2. **Install the Servo Motor:** Fit the servo motor onto its mount on the assembly.
 3. **Set Up the Limit Switch:** Install the limit switch in a location where it will be automatically triggered at the end of each sampling sequence.
 4. **Install the Potentiometer:** Place the potentiometer within easy reach for manual adjustments.
 5. **Wiring:** Connect the servo, limit switch, and potentiometer to the Arduino as per the wiring diagrams in the repository.
 
 ### Software Configuration
-- **Upload the Arduino Script:** Flash the Arduino with the script provided in this repository using the Arduino IDE.
+- **Upload the Arduino Script:** Flash the Arduino with the script provided in this repository using the Arduino IDE. [View the Arduino code here](URL_TO_ARDUINO_CODE).
 - **Calibrate the Device:** Adjust the potentiometer to fine-tune the rotation steps and ensure that the tubes align perfectly under the sampling mechanism after each rotation.
 
 ## Usage
