@@ -27,6 +27,14 @@ This repository contains the Arduino code and mechanical designs for an automate
    [Servo-mount-eppendorf3_mid.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_mid.stl)
    
    [Servo-mount-eppendorf3_lid.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_lid.stl)
+   
+   [Servo-mount-eppendorf3_slider.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_slider.stl)
+   
+   [Servo-mount-eppendorf3_gear.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_gear.stl)
+   
+   [Servo-mount-eppendorf3_small_gear.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_small_gear.stl)
+
+   [Servo-mount-eppendorf3_holder.stl](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_holder.stl)
 
 3. **Install the Servo Motor:** Fit the servo motor onto its mount on the assembly.
 4. **Set Up the Limit Switch:** Install the limit switch in a location where it will be automatically triggered at the end of each sampling sequence.
