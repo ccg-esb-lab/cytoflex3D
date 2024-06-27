@@ -24,7 +24,7 @@ This repository contains the Arduino code and mechanical designs for an automate
 
 | Part Name                         | STL File                                                                                                 | Screenshot                                  |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Base                              | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_base.stl)         | ![Base Screenshot](url_to_base_screenshot) |
+| Base                              | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_base.stl)         | ![Base Screenshot](screenshots/cytoflex3D_base.png) |
 | Mid                               | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_mid.stl)          | ![Mid Screenshot](url_to_mid_screenshot)    |
 | Lid                               | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_lid.stl)          | ![Lid Screenshot](url_to_lid_screenshot)    |
 | Slider                            | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_slider.stl)       | ![Slider Screenshot](url_to_slider_screenshot) |
