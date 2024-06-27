@@ -3,8 +3,6 @@
 ## Overview
 This repository contains the Arduino code and mechanical designs for an automated multisample Eppendorf tube rotator specifically designed to integrate with the Beckman Coulter CytoFlex flow cytometer. This device enhances the cytometer by enabling automated multisampling from up to 7 Eppendorf tubes. It features an automated mechanical lowering mechanism that triggers rotation to align each tube for sampling sequentially, effectively converting the CytoFlex into a multisample flow cytometer.
 
-## Device Gallery
-
 <p float="left">
   <img src="screenshots/cytoflex3D_body1.png" height="240px" />
   <img src="screenshots/cytoflex3D_body2.png" height="240px" />
