@@ -8,7 +8,7 @@ This repository contains the Arduino code and mechanical designs for an automate
 <p float="left">
   <img src="screenshots/cytoflex3D_body1.png" width="32%" />
   <img src="screenshots/cytoflex3D_body2.png" width="32%" />
-  <img src="screenshots/cytoflex3D_model1.png" width="32%" />
+  <img src="screenshots/cytoflex3D_model2.png" width="32%" />
 </p>
 
 
