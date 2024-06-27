@@ -6,9 +6,9 @@ This repository contains the Arduino code and mechanical designs for an automate
 ## Device Gallery
 
 <p float="left">
-  <img src="https://github.com/ccg-esb-lab/cytoflex3D/screenshots/cytoflex3D_body1.png" width="32%" />
-  <img src="https://github.com/ccg-esb-lab/cytoflex3D/screenshots/cytoflex3D_body1.png" width="32%" />
-  <img src="https://github.com/ccg-esb-lab/cytoflex3D/screenshots/cytoflex3D_body1.png" width="32%" />
+  <img src="screenshots/cytoflex3D_body1.png" width="32%" />
+  <img src="screenshots/cytoflex3D_body1.png" width="32%" />
+  <img src="screenshots/cytoflex3D_body1.png" width="32%" />
 </p>
 
 
