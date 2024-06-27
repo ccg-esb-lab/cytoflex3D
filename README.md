@@ -6,9 +6,9 @@ This repository contains the Arduino code and mechanical designs for an automate
 ## Device Gallery
 
 <p float="left">
-  <img src="images/model2.png" width="32%" />
-  <img src="images/model1.png" width="32%" />
-  <img src="images/base2.phg" width="32%" />
+  <img src="screenshots/model2.png" width="32%" />
+  <img src="screenshots/model1.png" width="32%" />
+  <img src="screenshots/base2.phg" width="32%" />
 </p>
 
 
