@@ -22,15 +22,18 @@ This repository contains the Arduino code and mechanical designs for an automate
 
 ## Parts List
 
-| Part Name                         | STL File                                                                                                 | 3D Model                                  |
-|-----------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Base                              | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_base.stl)         | <img src="screenshots/cytoflex3D_base.png" width="100"> |
-| Mid                               | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_mid.stl)          | <img src="screenshots/cytoflex3D_mid.png" width="100">  |
-| Lid                               | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_lid.stl)          | <img src="screenshots/cytoflex3D_lid.png" width="100">   |
-| Slider                            | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_slider.stl)       | <img src="screenshots/cytoflex3D_slider.png" width="100"> |
-| Gear                              | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_gear.stl)         | <img src="screenshots/cytoflex3D_gear.png" width="100"> |
-| Small Gear                        | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_small_gear.stl)   | <img src="screenshots/cytoflex3D_small_gear.png" width="100"> |
-| Holder                            | [View STL](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/Servo-mount-eppendorf3_holder.stl)       | <img src="screenshots/cytoflex3D_holder.png" width="100"> |
+## Parts List
+
+| Part Name                         | Download STL                                                                                                 | Screenshot                                  |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Base                              | [Download Base STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_base.stl)    | <img src="screenshots/cytoflex3D_base.png" width="100"> |
+| Mid                               | [Download Mid STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_mid.stl)      | <img src="screenshots/cytoflex3D_mid.png" width="100">  |
+| Lid                               | [Download Lid STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_lid.stl)      | <img src="screenshots/cytoflex3D_lid.png" width="100">  |
+| Slider                            | [Download Slider STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_slider.stl)| <img src="screenshots/cytoflex3D_slider.png" width="100"> |
+| Gear                              | [Download Gear STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_gear.stl)    | <img src="screenshots/cytoflex3D_gear.png" width="100"> |
+| Small Gear                        | [Download Small Gear STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_small_gear.stl) | <img src="screenshots/cytoflex3D_small_gear.png" width="100"> |
+| Holder                            | [Download Holder STL](https://github.com/ccg-esb-lab/cytoflex3D/blob/main/Servo-mount-eppendorf3_holder.stl)| <img src="screenshots/cytoflex3D_holder.png" width="100"> |
+
 
 
 ### Hardware Assembly
