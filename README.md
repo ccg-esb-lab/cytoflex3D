@@ -29,9 +29,8 @@ This repository contains the Arduino code and mechanical designs for an automate
 ## Setup Instructions
 
 
-## Parts List
+### Parts List
 
-## Parts List
 
 | Part Name                         | Download STL                                                                                                 | Screenshot                                  |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -53,7 +52,7 @@ This repository contains the Arduino code and mechanical designs for an automate
 5. **Wiring:** Connect the servo, limit switch, and potentiometer to the Arduino as per the wiring diagrams in the repository.
 
 ### Software Configuration
-- **Upload the Arduino Script:** Flash the Arduino with the script provided in this repository using the Arduino IDE. [View the Arduino code here]([URL_TO_ARDUINO_CODE](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/sketch_cytoflex3D.ino)).
+- **Upload the Arduino Script:** Flash the Arduino with the script provided in this repository using the Arduino IDE. [View the Arduino code here](https://github.com/ccg-esb-lab/cytoflex3D/edit/main/sketch_cytoflex3D.ino).
 - **Calibrate the Device:** Adjust the potentiometer to fine-tune the rotation steps and ensure that the tubes align perfectly under the sampling mechanism after each rotation.
 
 ## Usage
